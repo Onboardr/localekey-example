@@ -19,11 +19,11 @@ src/i18n/importer.ts
 ### Export
 
 ```bash
-pnpm export
+pnpm localekey:export
 ```
 
 ### Import
 
 ```bash
-pnpm import
+pnpm localekey:import
 ```
